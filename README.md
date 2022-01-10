@@ -1,7 +1,7 @@
 # LaravelApi
 
 ## API EndPoints
-Employees
+### Employees
 
 GET All http://localhost:8000/api/employees
 GET Single http://localhost:8000/api/employees/{id}
